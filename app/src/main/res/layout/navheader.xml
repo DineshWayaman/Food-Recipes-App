@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    android:background="@drawable/navimg"
+    android:orientation="vertical">
+
+   <ImageView
+       android:layout_width="135dp"
+       android:layout_height="135dp"
+       android:src="@drawable/rice"
+       android:layout_marginTop="8dp"
+       android:layout_marginLeft="8dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="W Creation Present"
+        android:textColor="#fff"
+        android:textStyle="bold"
+        android:layout_marginTop="8dp"
+        android:textSize="25dp"
+        android:layout_marginLeft="8dp"/>
+
+</androidx.appcompat.widget.LinearLayoutCompat>

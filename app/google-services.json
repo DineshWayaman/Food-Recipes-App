@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "487841272872",
+    "firebase_url": "https://food-recipes-40f28.firebaseio.com",
+    "project_id": "food-recipes-40f28",
+    "storage_bucket": "food-recipes-40f28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487841272872:android:6ce161e266c75aff04911d",
+        "android_client_info": {
+          "package_name": "com.wcreation.foodrecipes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487841272872-bhs16g22amriugnemkjmqlargtp0s1i5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wcreation.foodrecipes",
+            "certificate_hash": "f73168a3c865b89a83ff29153af8fb21dc395f41"
+          }
+        },
+        {
+          "client_id": "487841272872-9r1qclgnu21duvm0tt7i1il03kddpjkl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrxRY6hQwlDi_Yvf0KVvKc2wpO400Aw7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487841272872-9r1qclgnu21duvm0tt7i1il03kddpjkl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

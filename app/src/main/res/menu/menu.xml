@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/home"
+        android:icon="@drawable/ic_home"
+        android:title="Home"/>
+
+    <item android:id="@+id/riceRecipes"
+        android:icon="@drawable/rice"
+        android:title="Rice Recipes"/>
+
+    <item android:id="@+id/meatRecipes"
+        android:icon="@drawable/meat"
+        android:title="Meat Recipes"/>
+
+    <item android:id="@+id/cakeRecipes"
+        android:icon="@drawable/cake"
+        android:title="Cake Recipes"/>
+
+    <item android:id="@+id/fruitRecipes"
+        android:icon="@drawable/fruit"
+        android:title="Fruits Recipes"/>
+
+    <item android:id="@+id/vegRecipes"
+        android:icon="@drawable/veg"
+        android:title="Vegetarian Recipes"/>
+
+    <item android:id="@+id/rateApp"
+        android:icon="@drawable/ic_star_black_24dp"
+        android:title="Rate App"/>
+
+    <item android:id="@+id/faceBookPage"
+        android:icon="@drawable/facebook"
+        android:title="Like Our Facebook Page"/>
+
+    <item android:id="@+id/aboutUs"
+        android:icon="@drawable/ic_about"
+        android:title="About Us"/>
+
+    <item
+        android:id="@+id/sharaApp"
+        android:icon="@drawable/ic_share"
+        android:title="Share App"/>
+
+    <item android:id="@+id/exit"
+        android:icon="@drawable/ic_exit"
+        android:title="Exit"/>
+
+
+
+
+</menu>
